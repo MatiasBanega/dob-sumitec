@@ -1,0 +1,51 @@
+########################################
+######## OCA   #########################
+########################################
+account-financial-reporting:
+  - "*"
+
+account-financial-tools-OCA:
+  - "*"
+
+partner-contact:
+  - "*"
+
+project:
+  - "*"
+
+reporting-engine:
+  - "*"
+
+sale-workflow:
+  - "*"
+
+server-backend:
+  - "*"
+
+server-tools:
+  - "*"
+
+server-ux:
+  - "*"
+
+social:
+  - "*"
+
+web:
+  - "*"
+
+########################################
+######## adhoc #########################
+########################################
+
+odoo-argentina:
+  - "*"
+
+odoo-argentina-ce:
+  - "*"
+
+account-financial-tools:
+  - "*"
+
+account-payment:
+  - "*"
