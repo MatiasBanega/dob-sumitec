@@ -30,6 +30,7 @@ services:
         PIP_INSTALL_ODOO: "false"
         CLEAN: "false"
         COMPILE: "false"
+      network: host
     environment:
       DOODBA_ENVIRONMENT: "${DOODBA_ENVIRONMENT-devel}"
       LIST_DB: "true"
