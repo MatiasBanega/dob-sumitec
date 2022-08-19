@@ -36,6 +36,15 @@
   merges:
     - origin $ODOO_VERSION
 
+./helpdesk:
+  defaults:
+    depth: $DEPTH_DEFAULT
+  remotes:
+    origin: https://github.com/OCA/helpdesk.git
+  target: origin $ODOO_VERSION
+  merges:
+    - origin $ODOO_VERSION
+
 ./partner-contact:
   defaults:
     depth: $DEPTH_DEFAULT

@@ -7,6 +7,9 @@ account-financial-reporting:
 account-financial-tools-OCA:
   - "*"
 
+helpdesk:
+  - "*"
+
 partner-contact:
   - "*"
 
